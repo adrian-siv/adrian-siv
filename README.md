@@ -1,8 +1,9 @@
 ### Hey, I'm Adrian Sivilha! 👋
 
-- 📚 I’m currently learning front-end (html, css, javascript)
+- 📚 I’m pursuing my Systems Analysis and Development degree
+- 🤓 I'm currently focused on learning ReactJS and React Native in my personal studies 
 - 🏆 My goal is to have the skills to be a full stack developer
-- 🗓 Age: 21 yo
+- 🗓 Age: 22 yo
 - 😄 Pronouns: He/him
 - ⚽ Fun fact: I'm a sports freak
 
