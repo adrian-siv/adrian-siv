@@ -2,7 +2,7 @@
 
 - 📚 I’m pursuing my Systems Analysis and Development degree
 - 🤓 I'm currently focused on learning ReactJS and React Native in my personal studies 
-- 🏆 My goal is to have the skills to be a full stack developer
+- 🏆 My goal is to continuously develop my skills and knowledge in the world of technology
 - 🗓 Age: 22 yo
 - 😄 Pronouns: He/him
 - ⚽ Fun fact: I'm a sports freak
